@@ -34,7 +34,7 @@ function makeSound(inpt) {
           snare.play();
         break;
 
-    default: console.log(btnHTML);
+    default: console.log(innerHTML);
   }
 
 }
